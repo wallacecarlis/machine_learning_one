@@ -8,5 +8,4 @@ Curso de Machine Learning
 * **Aula 2 - Train Test Split:**
 * **Aula 3 - Modelos:**
 * **Aula 4 - Column Transformer e Pipeline:**
-* **Aula 5 - Cross Validation:**
-* **Aula 6 - Fine Tuning:**
+* **Aula 5 - Cross Validation e Fine Tuning:**
